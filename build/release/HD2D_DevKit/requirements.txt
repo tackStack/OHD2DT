@@ -1,0 +1,4 @@
+PyQt6==6.6.1
+Pillow==10.2.0
+numpy==1.26.4
+pyinstaller==6.4.0
