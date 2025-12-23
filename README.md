@@ -1,4 +1,4 @@
-# OHD2DT
+# HD2D_DevKit
 "Official" HD2D Tool Kit. 
 Features
 HD2D Rendering:
